@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "916315475186",
+    "project_id": "products-main",
+    "storage_bucket": "products-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916315475186:android:06c4e576fdc9b03cd4146b",
+        "android_client_info": {
+          "package_name": "com.moenaim.products_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916315475186-c8anrs1m9ebu6ej94fg1ip6idfi901lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJybQF7uasPTa31pEk89SMlEK4UizAkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916315475186-c8anrs1m9ebu6ej94fg1ip6idfi901lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916315475186:android:d7de2fc0853b7e21d4146b",
+        "android_client_info": {
+          "package_name": "com.moenaim.view_products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916315475186-c8anrs1m9ebu6ej94fg1ip6idfi901lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJybQF7uasPTa31pEk89SMlEK4UizAkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916315475186-c8anrs1m9ebu6ej94fg1ip6idfi901lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
